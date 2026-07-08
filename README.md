@@ -29,7 +29,8 @@
 > PDF Version
 
 📄 [**View Resume**](https://drive.google.com/file/d/1-DuPAMimbrST9dmzKoGRJD0Pfff13TuV/view?usp=sharing)
-_Last updated: July 2026_
+
+Last updated: July 2026
 
 ---
 

@@ -1,38 +1,42 @@
-
 # Apple Career DNA
 
-## 彭淑文 Apple Peng
+## 👋 我是彭淑文（Apple Peng）
 
-System Analysis × Data × AI × Product
+我很喜歡接觸陌生領域。
 
----
+每到一個新產業，我總是先理解它的語言、流程與規則，再把需求整理成工程師、主管、使用者都能理解的內容。
 
-### About Me
+二十多年來，我跨足政府、教育、醫療、半導體、物流、專利、數位內容等不同領域，角色也從工程師一路做到系統分析師、PM、資料分析、內部講師。
 
-20+ 年資訊系統經驗，橫跨政府、教育、半導體、醫療、物流等領域。
-
-擅長：
-
-- System Analysis
-- SQL
-- Tableau
-- Power BI
-- AI
-- n8n
-- 需求訪談
-- 教育訓練
+我最擅長的，不是某一項技術，而是把複雜的事情整理清楚，讓不同角色的人可以一起完成事情。
 
 ---
 
-## Resume
+## 🧬 我的 Career DNA
 
-👉 Resume.pdf
+- 🧩 系統分析（System Analysis）
+- 📊 資料分析（SQL / Tableau / Power BI）
+- 🤝 需求訪談與跨部門溝通
+- 🎓 教育訓練與知識傳遞
+- 🤖 AI 應用與流程自動化（n8n）
 
 ---
 
-## Coming Soon
+## 💼 Resume
+
+📄 [Resume.pdf](Resume.pdf)
+
+---
+
+## 🚧 持續建置中
+
+這不是一份履歷，而是一個持續成長的 Career Showroom。
+
+接下來會陸續整理：
 
 - Career DNA
-- Portfolio
-- AI Projects
-- Certifications
+- 專案作品（Portfolio）
+- AI / n8n
+- Power BI
+- 專業證照
+- 學習紀錄

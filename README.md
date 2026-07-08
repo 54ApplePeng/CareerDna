@@ -10,17 +10,17 @@
 
 因工作與專案需求，我經常需要快速理解陌生領域。
 
-每當接觸新的領域或任務，我習慣先理解整體架構，再開始分析與整理。
+每當接觸新的領域或任務，我都會先理解整體架構，再逐步分析與整理。
 
 ---
 
 ## 🧬 我的 Career DNA
 
-- 🧩 快速進入陌生領域
+- 🍀 快速理解陌生領域
 - 🤝 串聯需求、流程與系統
 - 🗣 擔任不同角色之間的「中翻中」
-- 📊 用資料協助分析與決策
-- 🤖 AI 應用與流程優化
+- 📊 運用資料協助分析與決策
+- 🤖 運用 AI 優化工作流程
 
 ---
 
@@ -28,7 +28,8 @@
 
 > PDF Version
 
-[**➡ View Resume**](https://drive.google.com/file/d/1-DuPAMimbrST9dmzKoGRJD0Pfff13TuV/view?usp=sharing)
+📄 [**View Resume**](https://drive.google.com/file/d/1-DuPAMimbrST9dmzKoGRJD0Pfff13TuV/view?usp=sharing)
+_Last updated: July 2026_
 
 ---
 

@@ -1,8 +1,8 @@
 # Apple Career DNA
+_How I understand, connect, and simplify complex work._
+
 
 ## 👋 我是彭淑文（Apple Peng）
-
-_How I understand, connect, and simplify complex work._
 
 我常笑著說，我的工作其實就是「中翻中」。
 

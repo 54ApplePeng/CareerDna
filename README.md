@@ -26,7 +26,7 @@
 
 ## 💼 Resume
 
-📄 [Resume(pdf](Resume.pdf)](https://drive.google.com/drive/folders/1F2rSYt5JL6OP-sc9ud_lWe9_8qtLfSOC)
+📄 [Resume(pdf)](https://drive.google.com/drive/folders/1F2rSYt5JL6OP-sc9ud_lWe9_8qtLfSOC)
 
 ---
 

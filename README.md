@@ -22,7 +22,7 @@ _How I understand, connect, and simplify complex work._
 - 🤝 串聯需求、流程與系統
 - 🗣 擔任不同角色之間的「中翻中」
 - 📊 運用資料協助分析與決策
-- 🤖 🤖 運用 AI 強化工作流程
+- 🤖 運用 AI 強化工作流程
 
 ---
 

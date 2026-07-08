@@ -26,7 +26,7 @@
 
 ## 💼 Resume
 
-📄 [Resume.pdf](Resume.pdf)
+📄 Resume(pdf](Resume.pdf)
 
 ---
 

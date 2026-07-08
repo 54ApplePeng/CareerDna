@@ -28,7 +28,7 @@
 
 > PDF Version
 
-**➡ View Resume** (https://drive.google.com/file/d/1-DuPAMimbrST9dmzKoGRJD0Pfff13TuV/view?usp=sharing)
+[**➡ View Resume**](https://drive.google.com/file/d/1-DuPAMimbrST9dmzKoGRJD0Pfff13TuV/view?usp=sharing)
 
 ---
 

@@ -28,13 +28,12 @@ _How I understand, connect, and simplify complex work._
 
 ## 💼 Resume
 
-A printable version of my Career DNA Portfolio.
+Printable version of my Career DNA Portfolio.
 
-> PDF Version
+📄 View Resume ([PDF](https://drive.google.com/file/d/1-DuPAMimbrST9dmzKoGRJD0Pfff13TuV/view?usp=sharing))
 
-📄 [**View Resume**](https://drive.google.com/file/d/1-DuPAMimbrST9dmzKoGRJD0Pfff13TuV/view?usp=sharing)
+Updated: July 2026
 
-Last updated: July 2026
 
 ---
 

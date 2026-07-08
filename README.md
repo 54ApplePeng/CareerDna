@@ -1,5 +1,5 @@
 # Apple Career DNA
-_How I understand, connect, and simplify complex work._
+_Understanding, Connecting, Simplifying._
 
 
 ## 👋 我是彭淑文（Apple Peng）
@@ -8,7 +8,7 @@ _How I understand, connect, and simplify complex work._
 
 把使用者說不清楚的需求，翻譯給工程師。
 
-再把工程師的技術語言，翻譯成主管與使用者都能理解的內容。
+再把工程師的技術語言，翻譯成主管與使用者都能理解的語言。
 
 因工作與專案需求，我經常需要快速理解陌生領域。
 

@@ -45,7 +45,7 @@ Updated: July 2026
 
 - 🧬 Career DNA
 - 💼 專案中的經典時刻（Portfolio）
-- - Case 001｜我如何把 100+ 個政府申辦流程，拆解成可重複使用的流程框架 (https://github.com/54ApplePeng/CareerDna/blob/main/Case/Case001_TFDA.md)
+- - [Case 001｜我如何把 100+ 個政府申辦流程，拆解成可重複使用的流程框架](https://github.com/54ApplePeng/CareerDna/blob/main/Case/Case001_TFDA.md)
 - 🤖 AI 怎麼用 / 那些流程該怎麼想的事兒
 - 📊 讓數字說故事－數據分析是啥玩意
 - 📜 那些我考過的證照

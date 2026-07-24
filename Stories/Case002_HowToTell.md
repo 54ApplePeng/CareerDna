@@ -1,5 +1,8 @@
 # Case 002｜理解，不是閱讀
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/04e73c54-2d3c-4390-9a44-59194ee44acc" />
+
+
 從小到大，我一直覺得自己不是典型的讀書人。
 
 我不喜歡抱著課本反覆閱讀，也沒有每天埋首書堆的習慣。

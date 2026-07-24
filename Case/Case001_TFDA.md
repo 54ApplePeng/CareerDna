@@ -2,6 +2,8 @@
 
 > 「每個陌生領域都有自己的語言，而我的工作，是先理解它，再讓不同的人都能理解它。」
 
+<img width="80%" alt="image" src="https://github.com/user-attachments/assets/fb027e6e-723d-49f5-9ee4-e9ce93cb609f" />
+
 ---
 
 ## 專案背景

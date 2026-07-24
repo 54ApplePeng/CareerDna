@@ -46,7 +46,7 @@ Updated: July 2026
 - 🧬 Career DNA
 - - [Case 002｜理解，不是閱讀](https://54applepeng.github.io/CareerDna/Stories/Case002_HowToTell)
 - 💼 專案中的經典時刻（Portfolio）
-- - [Case 001｜我如何把 100+ 個政府申辦流程，拆解成可重複使用的流程框架](https://54applepeng.github.io/CareerDna/Case/Case001_TFDA.md)
+- - [Case 001｜我如何把 100+ 個政府申辦流程，拆解成可重複使用的流程框架](https://54applepeng.github.io/CareerDna/Case/Case001_TFDA)
 - 🤖 AI 怎麼用 / 那些流程該怎麼想的事兒
 - 📊 讓數字說故事－數據分析是啥玩意
 - 📜 那些我考過的證照

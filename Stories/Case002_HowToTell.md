@@ -1,6 +1,7 @@
 # Case 002｜理解，不是閱讀
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/04e73c54-2d3c-4390-9a44-59194ee44acc" />
+<img width="80%" alt="image" src="https://github.com/user-attachments/assets/6e4a81cd-70a8-446b-9191-4710a024425d" />
+
 
 
 從小到大，我一直覺得自己不是典型的讀書人。
